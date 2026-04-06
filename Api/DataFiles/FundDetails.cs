@@ -1,5 +1,3 @@
-using System;
-
 namespace Api.DataFiles
 {
     public class FundDetails
